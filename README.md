@@ -3,6 +3,10 @@
 * Nampilin lirik di oled pakai esp8266
 * edit lirik di web, sambung wifinya dan buka 198.168.4.1
 
+# picture website 
+
+*  ![foto](Screenshot_2025-08-18-18-32-42-39_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
+
 # WIRING 
 
 * gnd to gnd
