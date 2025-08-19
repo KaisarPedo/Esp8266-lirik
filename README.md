@@ -2,6 +2,8 @@
 
 * Nampilin lirik di oled pakai esp8266
 * edit lirik di web, sambung wifinya dan buka 198.168.4.1
+* nama wifi "lirik"
+* password "12345678"
 
 # picture
 
