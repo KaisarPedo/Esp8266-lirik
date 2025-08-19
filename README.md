@@ -19,5 +19,5 @@
 
 # video
 
-![video](VID-20250818-WA0056.mp4)
-
+* ![video](VID-20250818-WA0056.mp4)
+* ![gif](ezgif-85c7fa8a86eeae.gif)
